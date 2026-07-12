@@ -1,2 +1,2 @@
 # Arknights
-A modded apk for Arknights (2019)
+An apk for Arknights (2019)
