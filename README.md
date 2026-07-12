@@ -1,2 +1,4 @@
 # Arknights
-An apk for Arknights (2019)
+**_Arknights_** is a free-to-play mobile game developed by **Hypergryph** which also publishes the game's Chinese (CN) server, using Simplified Chinese, in partnership with **Bilibili**. Outside of China, Arknights is published by **Yostar** for the Japanese (JP), Korean (KR), and English (EN) servers, which are collectively referred to as the Global server. The Taiwanese (TW) server, which uses Traditional Chinese and also covers Hong Kong and Macau, was originally published by Longcheng until 2025 together with Gryphline from 2024 to 2025, after which Arknights TW is published by **Ariel Network.**
+
+Arknights is notable for blending elements of both **tactical role-playing games** and **tower defense** games, a combination that has contributed to its growing popularity in mainland China and internationally following its global release. While the game includes **gacha** mechanics, it is often regarded as less "predatory" compared to other titles in the genre. Arknights is strictly a single-player game, though it features a limited cooperative system that allows for player interaction.
